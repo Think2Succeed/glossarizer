@@ -4,7 +4,11 @@
     "description" : "A living being, especially an animal"
   },
   {
-    "term": "genetic, hereditary, !genetic testing",
+    "term": "genetic, !genetic testing",
+    "description": "relating to genes or heredity: genetic abnormalities."
+  },
+  {
+    "term": "hereditary",
     "description": "relating to genes or heredity: genetic abnormalities."
   },
   {
